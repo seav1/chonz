@@ -1,3 +1,3 @@
-FROM jfu888/nezhax
+FROM jfu888/nezha
 
 USER 10001
